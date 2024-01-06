@@ -1,0 +1,73 @@
+.whole{
+    display: flex;
+    flex-direction: column;
+    border: 0px;
+    width: 350px;
+    height: 600px;
+    text-align: center;
+    margin-left: 200px;
+    margin-top: 50px;
+    box-shadow: 6px 6px 6px 6px #585656;
+    border-radius: 10px;
+}
+.hero{
+    width: 350px;
+    height: 200px;
+    border-radius: 10px 10px 0px 0px;
+}
+.order{
+    font-size: 30px;
+}
+.words{
+    margin-top: 7px;
+}
+.Annual{
+    width: 270px;
+    height: 50px;
+    align-items: center;
+    border: 0px;
+    display: flex;
+    flex-direction: row;
+    background-color: hsla(224, 12%, 61%, 0.603);
+    margin-left: 10%;
+    padding: 10px;
+    margin-top: 20px;
+}
+.Change{
+    margin-left: 70px;
+    color: #000;
+    text-align: left;
+    color: hsl(245, 75%, 52%);
+    text-decoration: underline;
+    cursor: pointer;
+}
+.music{
+    width: 40px;
+}
+.span{
+    color: hsl(245, 75%, 52%);
+    font-size:17px;
+}
+.tww{
+    margin-left: 10px;
+}
+.dollar{
+    font-size: 15px;
+    color: hsl(224, 23%, 55%);
+}
+.proceed{
+    margin-top: 30px;
+    width: 270px;
+    height: 40px;
+    border: 0px;
+    border-radius: 10px;
+    background-color: hsl(245, 75%, 52%);
+    color:  hsl(225, 100%, 98%);
+    box-shadow: 0px 3px 4px #535353;
+}
+.order1{
+    margin-top: 20px;
+    font-size: 15px;
+    color: hsl(245, 75%, 52%);
+    cursor: pointer;
+}
